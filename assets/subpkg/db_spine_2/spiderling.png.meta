@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "b06e3996-4c3a-45ec-8764-11d27f339369",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "spiderling": {
+      "ver": "1.0.6",
+      "uuid": "0702cfa4-2910-4bd7-a055-17afbc4e7c21",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b06e3996-4c3a-45ec-8764-11d27f339369",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -120,
+      "trimX": 2,
+      "trimY": 242,
+      "width": 416,
+      "height": 176,
+      "rawWidth": 420,
+      "rawHeight": 420,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "b06e3996-4c3a-45ec-8764-11d27f339369@6c48a",
+      "displayName": "spiderling",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b06e3996-4c3a-45ec-8764-11d27f339369"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "b06e3996-4c3a-45ec-8764-11d27f339369@6c48a"
+  }
+}

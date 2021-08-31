@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "9b0c12e6-f9a3-42fa-8867-4e17c2e602ee",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "E39": {
+      "ver": "1.0.6",
+      "uuid": "6f20e0c0-08dc-40e4-9be2-2a0808741ffd",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9b0c12e6-f9a3-42fa-8867-4e17c2e602ee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 496,
+      "height": 500,
+      "rawWidth": 504,
+      "rawHeight": 504,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "9b0c12e6-f9a3-42fa-8867-4e17c2e602ee@6c48a",
+      "displayName": "E39",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9b0c12e6-f9a3-42fa-8867-4e17c2e602ee"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "9b0c12e6-f9a3-42fa-8867-4e17c2e602ee@6c48a"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "335ea513-ed69-4111-9af2-5cdbb7349915",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "E20": {
+      "ver": "1.0.6",
+      "uuid": "7c5bb76c-2a8b-45c0-9a18-cecb505364b2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "335ea513-ed69-4111-9af2-5cdbb7349915",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 211,
+      "height": 215,
+      "rawWidth": 220,
+      "rawHeight": 220,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "335ea513-ed69-4111-9af2-5cdbb7349915@6c48a",
+      "displayName": "E20",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "335ea513-ed69-4111-9af2-5cdbb7349915"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "335ea513-ed69-4111-9af2-5cdbb7349915@6c48a"
+  }
+}
